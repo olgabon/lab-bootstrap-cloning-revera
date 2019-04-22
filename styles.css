@@ -1,0 +1,135 @@
+.body{
+    margin: 0 auto;
+}
+.brand-name{
+    font-weight: bold;
+    font-size: 40px;
+}
+.nav-link:hover {
+color: #ed564a!important;
+}
+.nav-container {
+    height: 80px;
+    background-color:  white;
+}
+.nav-logo {
+    background-color: white!important;
+    padding-left: 40px;
+}
+.btn-white {
+ border: 1px solid white;
+ color: white;   
+ background: transparent;
+ height: 40px;
+ width: 140px;
+}
+.carousel-content {
+    bottom: 20%;
+}
+.container-article {
+    background-color: #ed564a;
+    padding: 40px;
+    margin: 0;
+    color: white;
+}
+.article-main-container{
+box-sizing: none;
+margin: 0 auto;
+}
+.fas {
+    padding-bottom: 20px;
+}
+.article-main-container p{
+    padding: 15px;
+}
+.container-project{
+    padding: 40px;
+}
+.container-project h2{
+    font-size: 24px;
+    color: #000;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.container-project p{
+    font-weight: bold;
+    border-bottom: 1px solid #dfdfdf;
+    color: #aaa;
+    padding-bottom: 20px;
+}
+.img-section p {
+    text-align: center;
+    color: #000;
+    font-size: 14px;
+}
+
+.card {
+    border: none;
+    padding-top: 15px;
+}
+.card-body {
+    padding: 0;
+}
+.card p{
+    text-align: center;
+    color: #000;
+    font-size: 14px;
+    font-weight: bold;
+    border: none;
+}
+.project-title {
+    padding: 0;
+}
+.card-text p{
+    text-align: left;
+    padding-top: 15px;
+}
+.card-info p{
+    text-align: left;
+    color:  #aaa;
+}
+.card-info-inside p{
+    text-align: left;
+    font-weight: lighter;
+    color:  #aaa;
+    margin: 0;
+}
+.footer{
+    background: #3b3b3b;
+    border-top: 5px solid #ed564b;
+    padding: 40px;
+}
+.card-footer{
+    background: #3b3b3b;   
+}
+
+.card-text-footer p{
+    padding-top: 15px;
+    color: white;
+    font-weight: lighter;
+    text-align: left;
+}
+.card-info-footer p {
+    color:  #aaa;
+}
+.styled-section-footer {
+border-bottom: 1px #aaa;
+border-bottom-style: dotted;
+padding-bottom: 5px;
+padding-top: 5px;
+}
+.styled-section-footer a {
+    color: #aaa;
+    font-size: 14px;
+}
+.footer-bottom {
+    padding: 20px 0px;
+    background: #292929;
+
+}
+.footer-bottom p{
+    color: white;
+    padding-left: 55px;
+    font-size: 12px;
+    margin: 0;
+}
